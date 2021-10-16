@@ -1,5 +1,3 @@
-import pandas, yfinance as yf
+#Sample Script
 
-ticker = yf.Ticker('AAPL')
-
-print(ticker.info)
+print('Hello')
