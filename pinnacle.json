@@ -1,0 +1,222 @@
+[
+    {
+        "FirstTeam": "Milwaukee Bucks",
+        "SecondTeam": "Detroit Pistons",
+        "Time": "19:10",
+        "Team1spread": "-4.5 , 1.943",
+        "Team2spread": "+4.5 , 1.961",
+        "Team1money": "1.552",
+        "Team2money": "2.620",
+        "total_over": "212 , 1.934",
+        "total_under": "212 , 1.970"
+    },
+    {
+        "FirstTeam": "Miami Heat",
+        "SecondTeam": "Dallas Mavericks",
+        "Time": "19:32",
+        "Team1spread": "-2.5 , 1.877",
+        "Team2spread": "+2.5 , 2.030",
+        "Team1money": "1.662",
+        "Team2money": "2.360",
+        "total_over": "209.5 , 1.943",
+        "total_under": "209.5 , 1.961"
+    },
+    {
+        "FirstTeam": "Sacramento Kings",
+        "SecondTeam": "Utah Jazz",
+        "Time": "21:10",
+        "Team1spread": "+9.0 , 1.943",
+        "Team2spread": "-9.0 , 1.961",
+        "Team1money": "4.150",
+        "Team2money": "1.266",
+        "total_over": "222 , 1.952",
+        "total_under": "222 , 1.952"
+    },
+    {
+        "FirstTeam": "New Orleans Pelicans",
+        "SecondTeam": "Phoenix Suns",
+        "Time": "22:10",
+        "Team1spread": "+11.0 , 2.040",
+        "Team2spread": "-11.0 , 1.869",
+        "Team1money": "6.230",
+        "Team2money": "1.147",
+        "total_over": "214.5 , 1.925",
+        "total_under": "214.5 , 1.980"
+    },
+    {
+        "FirstTeam": "Houston Rockets",
+        "SecondTeam": "Los Angeles Lakers",
+        "Time": "22:40",
+        "Team1spread": "+10.0 , 1.909",
+        "Team2spread": "-10.0 , 2.000",
+        "Team1money": "5.000",
+        "Team2money": "1.202",
+        "total_over": "219 , 1.980",
+        "total_under": "219 , 1.925"
+    },
+    {
+        "FirstTeam": "Riachuelo de La Rioja",
+        "SecondTeam": "CA San Lorenzo de Almagro",
+        "Time": "20:00",
+        "Team1spread": "-6.5 , 1.854",
+        "Team2spread": "+6.5 , 1.970",
+        "Team1money": "1.333",
+        "Team2money": "3.360",
+        "total_over": "150.5 , 1.900",
+        "total_under": "150.5 , 1.917"
+    },
+    {
+        "FirstTeam": "Deportivo Berazategui",
+        "SecondTeam": "Ferro Carril Oeste",
+        "Time": "18:00",
+        "Team1spread": "-17.5 , 1.884",
+        "Team2spread": "+17.5 , 1.854",
+        "Team1money": "1.050",
+        "Team2money": "10.070",
+        "total_over": "121 , 1.854",
+        "total_under": "121 , 1.884"
+    },
+    {
+        "FirstTeam": "Banco de Mendoza A",
+        "SecondTeam": "Andes Talleres SC de Mendoza",
+        "Time": "19:30",
+        "Team1spread": "+22.0 , 1.840",
+        "Team2spread": "-22.0 , 1.900",
+        "Team1money": "",
+        "Team2money": "",
+        "total_over": "139.5 , 1.892",
+        "total_under": "139.5 , 1.847"
+    },
+    {
+        "FirstTeam": "Municipalidad de Lujan de Cuyo de Mendoza",
+        "SecondTeam": "Atletico San Marin B de Mendoza",
+        "Time": "21:15",
+        "Team1spread": "-4.5 , 1.862",
+        "Team2spread": "+4.5 , 1.877",
+        "Team1money": "1.458",
+        "Team2money": "2.600",
+        "total_over": "149.5 , 1.869",
+        "total_under": "149.5 , 1.869"
+    },
+    {
+        "FirstTeam": "San Jose B de Mendoza",
+        "SecondTeam": "Leonardo Murialdo de Mendoza",
+        "Time": "21:15",
+        "Team1spread": "-6.0 , 1.854",
+        "Team2spread": "+6.0 , 1.877",
+        "Team1money": "1.418",
+        "Team2money": "2.740",
+        "total_over": "143 , 1.869",
+        "total_under": "143 , 1.869"
+    },
+    {
+        "FirstTeam": "CA Paulistano SP",
+        "SecondTeam": "SC Corinthians Paulista",
+        "Time": "18:00",
+        "Team1spread": "-4.0 , 1.877",
+        "Team2spread": "+4.0 , 1.943",
+        "Team1money": "1.515",
+        "Team2money": "2.580",
+        "total_over": "149.5 , 1.952",
+        "total_under": "149.5 , 1.869"
+    },
+    {
+        "FirstTeam": "Cerrado Basquete",
+        "SecondTeam": "EC Pinheiros SP",
+        "Time": "19:45",
+        "Team1spread": "+1.0 , 1.917",
+        "Team2spread": "-1.0 , 1.900",
+        "Team1money": "1.961",
+        "Team2money": "1.862",
+        "total_over": "151.5 , 1.961",
+        "total_under": "151.5 , 1.854"
+    },
+    {
+        "FirstTeam": "Bucaros de Bucaramanga",
+        "SecondTeam": "Titanes de Barranquilla",
+        "Time": "19:00",
+        "Team1spread": "+29.0 , 1.869",
+        "Team2spread": "-29.0 , 1.793",
+        "Team1money": "17.740",
+        "Team2money": "1.010",
+        "total_over": "144 , 1.800",
+        "total_under": "144 , 1.869"
+    },
+    {
+        "FirstTeam": "San Vicente BC",
+        "SecondTeam": "Santiagueno Bc",
+        "Time": "21:30",
+        "Team1spread": "-12.5 , 1.862",
+        "Team2spread": "+12.5 , 1.877",
+        "Team1money": "1.100",
+        "Team2money": "6.570",
+        "total_over": "175.5 , 1.909",
+        "total_under": "175.5 , 1.833"
+    },
+    {
+        "FirstTeam": "CBM Cojutepeque",
+        "SecondTeam": "BC Chalchuapa United",
+        "Time": "21:30",
+        "Team1spread": "-14.0 , 1.917",
+        "Team2spread": "+14.0 , 1.826",
+        "Team1money": "1.127",
+        "Team2money": "5.670",
+        "total_over": "176 , 1.892",
+        "total_under": "176 , 1.847"
+    },
+    {
+        "FirstTeam": "Bayamon",
+        "SecondTeam": "Guaynabo",
+        "Time": "20:00",
+        "Team1spread": "-7.0 , 1.892",
+        "Team2spread": "+7.0 , 1.847",
+        "Team1money": "1.280",
+        "Team2money": "3.470",
+        "total_over": "164 , 1.854",
+        "total_under": "164 , 1.884"
+    },
+    {
+        "FirstTeam": "Olivol Mundial",
+        "SecondTeam": "Nacional",
+        "Time": "20:15",
+        "Team1spread": "+7.5 , 1.819",
+        "Team2spread": "-7.5 , 1.925",
+        "Team1money": "3.430",
+        "Team2money": "1.298",
+        "total_over": "163.5 , 1.869",
+        "total_under": "163.5 , 1.869"
+    },
+    {
+        "FirstTeam": "Defensor Sporting",
+        "SecondTeam": "Malvin",
+        "Time": "20:35",
+        "Team1spread": "+3.5 , 1.854",
+        "Team2spread": "-3.5 , 1.877",
+        "Team1money": "2.340",
+        "Team2money": "1.552",
+        "total_over": "157 , 1.892",
+        "total_under": "157 , 1.840"
+    },
+    {
+        "FirstTeam": "BC Lokomotiv Kuban Krasnodar",
+        "SecondTeam": "Metropolitans 92",
+        "Time": "12:30",
+        "Team1spread": "-6.0 , 1.826",
+        "Team2spread": "+6.0 , 1.980",
+        "Team1money": "1.330",
+        "Team2money": "3.330",
+        "total_over": "169.5 , 1.900",
+        "total_under": "169.5 , 1.900"
+    },
+    {
+        "FirstTeam": "KK Buducnost Voli",
+        "SecondTeam": "Virtus Bologna",
+        "Time": "14:00",
+        "Team1spread": "+4.5 , 1.943",
+        "Team2spread": "-4.5 , 1.862",
+        "Team1money": "2.860",
+        "Team2money": "1.421",
+        "total_over": "163.5 , 1.877",
+        "total_under": "163.5 , 1.917"
+    }
+]
