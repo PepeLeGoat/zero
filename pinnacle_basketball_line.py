@@ -3,7 +3,6 @@ import json, unidecode, time
 
 all_items = []
 
-
 def get_data():
     driver = webdriver.Chrome()
     driver.get('https://www.pinnacle.com/en/basketball/matchups/')
@@ -33,7 +32,7 @@ def get_data():
         all_items.append(item)
     driver.close()
 
-
+# 
 
 # def insert_data_file():
 #     file_ = open('pinnacle.json', 'w')
@@ -42,6 +41,7 @@ def get_data():
 #     file_.write(jsondata_)
 
 
-# if __name__ == "__main__":
-#     get_data()
+if __name__ == "__main__":
+    get_data()
+    print(all_items)
 #     insert_data_file()
